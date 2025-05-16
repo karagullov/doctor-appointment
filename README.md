@@ -35,29 +35,18 @@ Notification System
 
 ## Screenshots
 
-![signup](https://i.postimg.cc/bwHV2Bw4/Sign-Up.png)
-
-![Sign in](https://i.postimg.cc/QCzg7c2B/Sign-In.png)
-
-![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
-
-![Users](https://i.postimg.cc/fRwJMVtm/Users.png)
-
-![Doctors](https://i.postimg.cc/Gpndx2G9/Doctors.png)
-
-![Profile](https://i.postimg.cc/XqzCDFkw/Profile.png)
-
-![Doctor signup](https://i.postimg.cc/0j1cQTw6/Doctor-Sign-Up.png)
-
-![Booking](https://i.postimg.cc/xCCjFYMw/Book-Appointments.png)
-
-![Appointments](https://i.postimg.cc/59GfPnMX/Doctor-Appointments.png)
-
-![Admin Notifications](https://i.postimg.cc/5ycbt2gw/Admin-Notifications.png)
-
-![Doctor Notification](https://i.postimg.cc/0yhtFKyd/Doctor-Notification.png)
-
-![User Notification](https://i.postimg.cc/zB8kYCZW/User-Notification.png)
+(https://i.postimg.cc/Bn72DQ3x/Whats-App-Image-2025-05-17-at-00-49-34.jpg)
+(https://i.postimg.cc/YS4YxK2T/Whats-App-Image-2025-05-17-at-00-49-35.jpg)
+(https://i.postimg.cc/tgLPSSYJ/Whats-App-Image-2025-05-17-at-00-51-15.jpg)
+(https://i.postimg.cc/pTzjgfFZ/Whats-App-Image-2025-05-17-at-00-54-51.jpg)
+(https://i.postimg.cc/T1xbGKjX/Whats-App-Image-2025-05-17-at-00-58-26.jpg)
+(https://i.postimg.cc/nr1DLnT9/Whats-App-Image-2025-05-17-at-00-59-21.jpg)
+(https://i.postimg.cc/fTwdr0Tc/Whats-App-Image-2025-05-17-at-01-01-10.jpg)
+(https://i.postimg.cc/G3PYKjr3/Whats-App-Image-2025-05-17-at-01-01-50.jpg)
+(https://i.postimg.cc/SND9FNJw/Whats-App-Image-2025-05-17-at-01-02-39.jpg)
+(https://i.postimg.cc/pLrF2bjy/Whats-App-Image-2025-05-17-at-01-04-09.jpg)
+(https://i.postimg.cc/6pPGqjVc/Whats-App-Image-2025-05-17-at-01-05-32.jpg)
+(https://i.postimg.cc/CKfnqGmg/Whats-App-Image-2025-05-17-at-01-09-05.jpg)
 
 ## Environment Variables
 
